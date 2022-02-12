@@ -1,0 +1,9 @@
+.text-logo img {
+  max-width: 3rem;
+  max-height: 3rem;
+}
+.text-logo {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
