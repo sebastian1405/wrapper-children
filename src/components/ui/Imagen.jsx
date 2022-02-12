@@ -1,6 +1,6 @@
 import "./Imagen.css";
 
-const Imagen = ({ img, type, alt }) => {
+const Imagen = ({ img, type = "normal", alt }) => {
   return (
     <div>
       {
